@@ -44,7 +44,7 @@ class Allemails extends Dbconnection{
 					<tr>
 					<td bgcolor="#ffffff" align="center" valign="top" style="padding: 40px 10px 10px 10px;">
 					  <a href="#" target="_blank">
-					  <img alt="logo" src="https://www.rocketenglish.ru/assets/media/rockenglish-logo.png" width="155" height="29"  border="0">
+					  <img alt="logo" src="favicon_io/favicon-16x16.png" width="155" height="29"  border="0">
 					  </a>
 					</td>
 				  </tr>

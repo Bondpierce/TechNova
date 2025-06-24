@@ -1,5 +1,6 @@
 <?php 
 include 'script/config.php'; ?>
+
 <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
     <?php
     try {
@@ -37,12 +38,12 @@ include 'script/config.php'; ?>
                     </span>
                 <?php endforeach; ?>
             </div>
-            <a href="#" class="inline-flex items-center text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors">
+            <!-- <a href="#" class="inline-flex items-center text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors">
                 View Project
                 <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                 </svg>
-            </a>
+            </a> -->
         </div>
     </div>
     <?php

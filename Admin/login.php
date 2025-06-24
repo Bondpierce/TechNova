@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     
     // In a real application, you would use proper password hashing and validation
     // This is just a basic example
-    $valid_username = 'admin'; // Change this
+    $valid_username = 'TechNova Admin'; // Change this
     $valid_password = '200700'; // Change this
     
     if ($username === $valid_username && $password === $valid_password) {

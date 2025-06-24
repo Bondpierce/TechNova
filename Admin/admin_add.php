@@ -97,10 +97,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     </select>
                 </div>
                 
-                <div>
+                <!-- <div>
                     <label for="category_name" class="block text-gray-700 font-medium mb-2">Category Name (long)</label>
                     <input type="text" id="category_name" name="category_name" required class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
-                </div>
+                </div> -->
             </div>
             
             <div class="mb-4">
